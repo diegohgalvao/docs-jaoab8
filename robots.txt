@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://diegohgalvao.github.io/docs-jaoab8/sitemap.xml
